@@ -426,6 +426,9 @@ h3 {
   color: var(--light-text);
   line-height: 1.8;
   font-size: 1.05rem;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
 }
 
 /* ============================================
